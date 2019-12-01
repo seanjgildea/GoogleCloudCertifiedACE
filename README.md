@@ -6,13 +6,33 @@
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/seanjgildea/CoreSpring5CertificationGuide/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Table of contents
+## Top 10 things to remember
 
-- [Container, Dependency and IOC](container_dependency_ioc.md) ( 14 Questions on Exam )
-- [Aspect Oriented Programming](aspect_oriented_programming.md) ( 7 Questions on Exam )
-- [Data Management](data_management.md) ( 9 Questions... )
-- [Spring Boot](spring_boot.md) ( 7 Questions )
-- [Spring MVC and the Web Layer](spring_mvc.md) ( 5 Questions )
-- [Security](security.md) ( 3 Questions )
-- [REST](rest.md) ( 3 Questions )
-- [Testing](testing.md) ( 2 Questions )
+- Know your gcloud commands for managing and creating projects such as gcloud projects list
+  - project id 
+- Know your basic container terms. Pods, but also know your kubectl commands. Such as kubectl get pods
+- Know the use case and differences between Container Registry, Container Builder and Cloud Source Repositories
+- Cloud SQL vs Cloud Spanner ( Use Case, Scaling )
+  - Cloud SQL is regional, does not scale easily
+  - Cloud Spanner is global
+- Know your use cases for data services, Cloud Storage, App Engine, Kubernetes Engine, Cloud Pub/Sub, Cloud Dataflow, Etc
+  -
+- Know how to deploy windows on compute engine
+  - best way to login and authenticate
+- IAM permissions basics
+  - know what service accounts are
+  - how to setup audit logs for auditors and logging best practices
+  - know the menus and submenus
+  - how to delete and create a service account
+
+- Stackdriver logging setup
+  - setup alerts 
+  - differences between stackdriver modules
+  
+- BigQuery pricing
+  - Go to calculator
+  - know on demand vs flat rate
+  - storage is additional
+  
+- 
+
