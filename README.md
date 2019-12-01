@@ -10,16 +10,24 @@
 
 - Know your gcloud commands for managing and creating projects such as gcloud projects list
   - project id 
+  - gcloud configurations
+  
 - Know your basic container terms. Pods, but also know your kubectl commands. Such as kubectl get pods
+
 - Know the use case and differences between Container Registry, Container Builder and Cloud Source Repositories
+
 - Cloud SQL vs Cloud Spanner ( Use Case, Scaling )
   - Cloud SQL is regional, does not scale easily
   - Cloud Spanner is global
+  - BigQuery
+  
 - Know your use cases for data services, Cloud Storage, App Engine, Kubernetes Engine, Cloud Pub/Sub, Cloud Dataflow, Etc
   -
+  
 - Know how to deploy windows on compute engine
   - best way to login and authenticate
-- IAM permissions basics
+  
+- IAM permissions heavy
   - know what service accounts are
   - how to setup audit logs for auditors and logging best practices
   - know the menus and submenus
@@ -34,5 +42,8 @@
   - know on demand vs flat rate
   - storage is additional
   
-- 
+- AppEngine 
+  - Versioning / Traffic Mgmt
+  - Difference between engine standard and flex
+  - how to split, deploy, update, migrate
 
