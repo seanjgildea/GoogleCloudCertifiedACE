@@ -28,9 +28,8 @@
   - Cloud Spanner is global
   - BigQuery
   - bq tool
-  
+
 - Know your use cases for data services, Cloud Storage, App Engine, Kubernetes Engine, Cloud Pub/Sub, Cloud Dataflow, Etc
-  -
   
 - Know how to deploy windows on compute engine
   - best way to login and authenticate
