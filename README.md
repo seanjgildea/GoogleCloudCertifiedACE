@@ -49,4 +49,8 @@
   - know on demand vs flat rate
   - storage is additional
 
+# Extra Notes
+
+- Managed vs Unmanaged Instance Groups
+  - Autoscaling available in managed instance groups
 
